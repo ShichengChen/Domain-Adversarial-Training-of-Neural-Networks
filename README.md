@@ -1,6 +1,6 @@
 # my code is first inspired by
     https://github.com/CuthbertCai/pytorch_DANN
-# Domain-AdversarialTrainingofNeuralNetworks
+# Domain-Adversarial Training of Neural Networks
     https://arxiv.org/pdf/1505.07818.pdf
     implement Domain-Adversarial Training of Neural Networks by pytorch
 
